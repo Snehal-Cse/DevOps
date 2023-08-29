@@ -23,7 +23,7 @@
 }
 
 ::-webkit-scrollbar {
-    height: 12px;
+    height: 12.1px;
     width: 8px;
     background: var(--dark);
 }
